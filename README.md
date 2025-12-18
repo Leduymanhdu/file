@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Architecture
 
 ```bash
@@ -108,3 +109,6 @@ Object Relational Mapping
 Ánh xạ 1 class (OOP)  model src/infrastructure/models --> Table in database 
 Ánh xạ các mối quan hệ (Relational) -- Khoá ngoại CSDL 
 (n-n): many to many 
+=======
+
+>>>>>>> 3d70f70efbf027bc60ada4780458d98640010261
